@@ -1,0 +1,22 @@
+{
+  "name": "playground-react-folder",
+  "version": "1.0.0",
+  "description":
+    "A playground to test out a folder component that wraps any dom element. Idea from \"whimsical-mail-client\"",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "antd": "^3.5.2",
+    "prop-types": "15.6.1",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
